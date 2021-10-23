@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\BilgeadamEğitim\KullanicidanGirilen5Sayi\KullanicidanGirilen5Sayi\bin\Debug\KullanicidanGirilen5Sayi.exe.config
+C:\Users\user\Desktop\BilgeadamEğitim\KullanicidanGirilen5Sayi\KullanicidanGirilen5Sayi\bin\Debug\KullanicidanGirilen5Sayi.exe
+C:\Users\user\Desktop\BilgeadamEğitim\KullanicidanGirilen5Sayi\KullanicidanGirilen5Sayi\bin\Debug\KullanicidanGirilen5Sayi.pdb
+C:\Users\user\Desktop\BilgeadamEğitim\KullanicidanGirilen5Sayi\KullanicidanGirilen5Sayi\obj\Debug\KullanicidanGirilen5Sayi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BilgeadamEğitim\KullanicidanGirilen5Sayi\KullanicidanGirilen5Sayi\obj\Debug\KullanicidanGirilen5Sayi.Form1.resources
+C:\Users\user\Desktop\BilgeadamEğitim\KullanicidanGirilen5Sayi\KullanicidanGirilen5Sayi\obj\Debug\KullanicidanGirilen5Sayi.Properties.Resources.resources
+C:\Users\user\Desktop\BilgeadamEğitim\KullanicidanGirilen5Sayi\KullanicidanGirilen5Sayi\obj\Debug\KullanicidanGirilen5Sayi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\BilgeadamEğitim\KullanicidanGirilen5Sayi\KullanicidanGirilen5Sayi\obj\Debug\KullanicidanGirilen5Sayi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BilgeadamEğitim\KullanicidanGirilen5Sayi\KullanicidanGirilen5Sayi\obj\Debug\KullanicidanGirilen5Sayi.exe
+C:\Users\user\Desktop\BilgeadamEğitim\KullanicidanGirilen5Sayi\KullanicidanGirilen5Sayi\obj\Debug\KullanicidanGirilen5Sayi.pdb
