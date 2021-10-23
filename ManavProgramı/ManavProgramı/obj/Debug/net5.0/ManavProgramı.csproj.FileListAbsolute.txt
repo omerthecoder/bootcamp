@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ManavProgramı\ManavProgramı\obj\Debug\net5.0\ManavProgramı.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ManavProgramı\ManavProgramı\obj\Debug\net5.0\ManavProgramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ManavProgramı\ManavProgramı\obj\Debug\net5.0\ManavProgramı.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ManavProgramı\ManavProgramı\obj\Debug\net5.0\ManavProgramı.AssemblyInfo.cs
+C:\Users\user\source\repos\ManavProgramı\ManavProgramı\obj\Debug\net5.0\ManavProgramı.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ManavProgramı\ManavProgramı\bin\Debug\net5.0\ManavProgramı.exe
+C:\Users\user\source\repos\ManavProgramı\ManavProgramı\bin\Debug\net5.0\ManavProgramı.deps.json
+C:\Users\user\source\repos\ManavProgramı\ManavProgramı\bin\Debug\net5.0\ManavProgramı.runtimeconfig.json
+C:\Users\user\source\repos\ManavProgramı\ManavProgramı\bin\Debug\net5.0\ManavProgramı.runtimeconfig.dev.json
+C:\Users\user\source\repos\ManavProgramı\ManavProgramı\bin\Debug\net5.0\ManavProgramı.dll
+C:\Users\user\source\repos\ManavProgramı\ManavProgramı\bin\Debug\net5.0\ref\ManavProgramı.dll
+C:\Users\user\source\repos\ManavProgramı\ManavProgramı\bin\Debug\net5.0\ManavProgramı.pdb
+C:\Users\user\source\repos\ManavProgramı\ManavProgramı\obj\Debug\net5.0\ManavProgramı.dll
+C:\Users\user\source\repos\ManavProgramı\ManavProgramı\obj\Debug\net5.0\ref\ManavProgramı.dll
+C:\Users\user\source\repos\ManavProgramı\ManavProgramı\obj\Debug\net5.0\ManavProgramı.pdb
+C:\Users\user\source\repos\ManavProgramı\ManavProgramı\obj\Debug\net5.0\ManavProgramı.genruntimeconfig.cache
