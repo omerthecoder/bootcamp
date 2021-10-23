@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\SayiTahminiOyunu\SayiTahminiOyunu\bin\Debug\SayiTahminiOyunu.exe.config
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\SayiTahminiOyunu\SayiTahminiOyunu\bin\Debug\SayiTahminiOyunu.exe
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\SayiTahminiOyunu\SayiTahminiOyunu\bin\Debug\SayiTahminiOyunu.pdb
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\SayiTahminiOyunu\SayiTahminiOyunu\obj\Debug\SayiTahminiOyunu.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\SayiTahminiOyunu\SayiTahminiOyunu\obj\Debug\SayiTahminiOyunu.Form1.resources
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\SayiTahminiOyunu\SayiTahminiOyunu\obj\Debug\SayiTahminiOyunu.Properties.Resources.resources
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\SayiTahminiOyunu\SayiTahminiOyunu\obj\Debug\SayiTahminiOyunu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\SayiTahminiOyunu\SayiTahminiOyunu\obj\Debug\SayiTahminiOyunu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\SayiTahminiOyunu\SayiTahminiOyunu\obj\Debug\SayiTahminiOyunu.exe
+C:\Users\user\Desktop\BilgeadamEğitim\GitRepo\SayiTahminiOyunu\SayiTahminiOyunu\obj\Debug\SayiTahminiOyunu.pdb
